@@ -1,0 +1,20 @@
+{
+  "records": 244,
+  "quasi_identifiers": [
+    "region",
+    "age_band",
+    "visit_type"
+  ],
+  "k_threshold": 5,
+  "equivalence_classes": 32,
+  "unique_records": 0,
+  "records_in_classes_below_k": 4,
+  "share_records_below_k": 0.01639344262295082,
+  "classes_below_k": 2,
+  "minimum_class_size": 2,
+  "class_size_histogram": {
+    "2": 2,
+    "8": 30
+  },
+  "screen_passed": false
+}
